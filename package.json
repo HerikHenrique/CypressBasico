@@ -9,10 +9,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wlsf82/Formulario-DEVs.git"
+    "url": ""
   },
   "keywords": [],
-  "author": "Walmyr Filho <wlsf82@gmail.com> (https://walmyr.dev)",
+  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/wlsf82/Formulario-DEVs/issues"
